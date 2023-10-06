@@ -77,7 +77,7 @@ int main() {
 
 
 /*
-In this project, we create a DynamicArray class that uses new to 
+In this project, a DynamicArray class uses new to 
 allocate memory dynamically for an integer array. The array's 
 capacity is doubled when it's full to accommodate more elements. 
 The Add method adds elements to the array, the Remove method 
