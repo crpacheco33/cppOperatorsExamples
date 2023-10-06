@@ -32,12 +32,12 @@ int main() {
 
 
 /*
-In this project, we implement a simple encryption and decryption scheme using the XOR bitwise operator (^). 
+In this project, I implement a simple encryption and decryption scheme using the XOR bitwise operator (^). 
 The EncryptDecrypt function takes a text and a secret key as input and returns the encrypted or decrypted text, 
 depending on how it's used. When encrypting, it applies the XOR operation between each character of the text 
 and the corresponding character of the key, repeating the key if necessary.
 
-When you run the program, it will display the encrypted message, and then decrypt it to reveal the original 
+When the program runs, it will display the encrypted message, and then decrypt it to reveal the original 
 message. This demonstrates the reversible nature of the XOR operation when using the same key for encryption 
 and decryption.
 
