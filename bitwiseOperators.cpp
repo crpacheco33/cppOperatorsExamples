@@ -41,7 +41,5 @@ When you run the program, it will display the encrypted message, and then decryp
 message. This demonstrates the reversible nature of the XOR operation when using the same key for encryption 
 and decryption.
 
-Please note that this is a basic example for educational purposes, and it should not be used for secure 
-encryption. In practice, secure encryption algorithms and libraries should be used for any real-world application 
-requiring data security.
+
 */
